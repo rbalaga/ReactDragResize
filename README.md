@@ -1,2 +1,0 @@
-# ReactDragResize
-Created with CodeSandbox
